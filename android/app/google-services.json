@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551859991880",
+    "project_id": "fapp-32153",
+    "storage_bucket": "fapp-32153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551859991880:android:42c7f65c0ccfeef793ef7d",
+        "android_client_info": {
+          "package_name": "com.example.fauth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551859991880-7das6pt6lk7auvcftfgqge7dsu67osu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB4-uqvOlze8gpRxMNCmswSEkOWCum9Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551859991880-7das6pt6lk7auvcftfgqge7dsu67osu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
